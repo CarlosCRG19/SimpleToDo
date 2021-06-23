@@ -13,6 +13,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="2dp"
         android:layout_marginBottom="0dp"
+        android:backgroundTint="@color/fedora_blue"
         android:text="@string/addButtonText" />
 
     <EditText
