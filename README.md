@@ -28,7 +28,9 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* I did two FileUtils imports that were blocking each other: android.os.FileUtils and org.apache.commons.io.FileUtils
+* At first I had a hard time understanding the concept of ViewHolder and Adapter. But after reading the documentation, I was able to reason that the former is just a way to encampsulate a View with its metadata and the latter allows us to bind information from a dataset to a View.
+* I couldn't access github from Android Studio when trying to login. After a while I had to generate a token from my github to be able to bind them.
 
 ## License
 
