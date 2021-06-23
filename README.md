@@ -4,7 +4,7 @@
 
 Submitted by: **Carlos Rodriguez Garcia**
 
-Time spent: **4** hours spent in total
+Time spent: **5.5** hours spent in total (4.5 hours on basic requirements, 1 hour on bonus feature)
 
 ## User Stories
 
